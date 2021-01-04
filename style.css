@@ -1,7 +1,9 @@
 body{
     margin: 0px;
-    font-family: 'Poppins', sans-serif}
-
+    font-family: 'Poppins', sans-serif
+    
+}
+    
 h1{
 color:blue;
 font-size: 30px;}
@@ -15,7 +17,9 @@ font-size: 30px;}
 .half-site{
     width: 40%;
     float: left;
-    margin-left: 5%;}
+    margin-left: 5%;
+    
+}
 
 .half-site img{
     width: 80%;}
@@ -30,8 +34,8 @@ p{
 }
 
 section{
-    height: 500px;
-    padding-bottom: 150px;
+    height: 800px;
+    padding-bottom: 90px;
 }
 
 .top-banner{
@@ -67,7 +71,9 @@ background-repeat: no-repeat;
 .shadow-bg{
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
-    height: 80%;
+    height: 50%;
+    padding: 2%;
+   
 
 }
 
@@ -81,8 +87,9 @@ background-repeat: no-repeat;
 
 #web-des{
     border-left: 7px solid;
-    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image: linear-gradient(180deg, lightsalmon, tomato, blue);
     border-image-slice: 1;
+    background-color: white;
 }
 
 #baby-web{
